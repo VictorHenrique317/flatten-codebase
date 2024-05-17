@@ -1,5 +1,5 @@
 # codebase-flatter
-Flattens a codebase into a single .md file so that it can be fetched to a LLM
+Flattens a codebase into a single .md file so that it can be given to a LLM
 
 ## Dependencies
 - sudo apt install pandoc
