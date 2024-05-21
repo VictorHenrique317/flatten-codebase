@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='codebase-flatter',
-    version='0.1',
+    version='1.1',
     packages=find_packages(),
     description='Codebase Flatter simplifies codebase preparation for Language Models by converting it into a single Markdown file, making it easier for the developer to provide the codebase to the LM',
     long_description=open('README.md').read(),
@@ -14,4 +14,9 @@ setup(
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
     ],
+    entry_points={
+        'console_scripts': [
+            'flatten_codebase=flatten_codebase:main',
+        ],
+    },
 )
