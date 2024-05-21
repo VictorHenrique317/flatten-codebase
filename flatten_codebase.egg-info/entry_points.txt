@@ -1,3 +1,0 @@
-[console_scripts]
-flatten-codebase = flatten_codebase.main:main
-

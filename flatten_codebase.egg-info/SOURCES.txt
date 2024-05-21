@@ -1,9 +1,0 @@
-README.md
-setup.py
-flatten_codebase/__init__.py
-flatten_codebase/main.py
-flatten_codebase.egg-info/PKG-INFO
-flatten_codebase.egg-info/SOURCES.txt
-flatten_codebase.egg-info/dependency_links.txt
-flatten_codebase.egg-info/entry_points.txt
-flatten_codebase.egg-info/top_level.txt
