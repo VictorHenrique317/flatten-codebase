@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: flatten-codebase
+Version: 1.2
+Summary: Flatten Codebase simplifies codebase preparation for Language Models by converting it into a single Markdown file, making it easier for the developer to provide the codebase to the LM
+Home-page: https://github.com/VictorHenrique317/flatten-codebase
+Author: Victor Henrique Silva Ribeiro
+Author-email: victor.henrique5800@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+
 # Flatten Codebase
 
 ## Overview
@@ -49,3 +62,4 @@ This will create a `codebase.md` file containing the flattened structure and con
 ## Contributing
 
 Contributions to improve the tool's functionality, performance, or documentation are welcome. Please feel free to submit pull requests or issues through the GitHub repository.
+
