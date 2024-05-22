@@ -45,7 +45,9 @@ pip install flatten-codebase
 ### Usage
 
 Run the CLI with the `--folders` argument followed by the paths to the base folders you wish to process. For example:
+```bash
 `flatten-codebase --folders /path/to/folder1 /path/to/folder2`
+```
 
 This will create a `codebase.md` file in the current directory containing the flattened structure and the content of the specified folders.
 
