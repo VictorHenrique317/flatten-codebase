@@ -44,7 +44,7 @@ pip install flatten-codebase
 
 Or use the `flatten_codebase/main.py` script directly:
 ```bash
-python flatten_codebase/main.py
+python3 flatten_codebase/main.py
 ```
 You can rename and put it in your PATH to use it as a global command.
 
