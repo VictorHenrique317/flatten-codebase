@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='flatten-codebase',
-    version='1.2',
+    version='1.3',
     packages=find_packages(),
     description="Flatten Codebase simplifies codebase preparation for Language Models by converting it into a single Markdown file, making it easier for the developer to provide the codebase to the LM",
     long_description=open('README.md', encoding='utf-8').read(),
