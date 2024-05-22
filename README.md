@@ -42,6 +42,12 @@ Install the CLI tool with pip:
 pip install flatten-codebase
 ```
 
+Or use the `flatten_codebase/main.py` script directly:
+```bash
+python flatten_codebase/main.py
+```
+You can rename and put it in your PATH to use it as a global command.
+
 ### Usage
 
 Run the CLI with the `--folders` argument followed by the paths to the base folders you wish to process. For example:
