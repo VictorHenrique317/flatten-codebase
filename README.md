@@ -36,17 +36,11 @@ Ensure you have Python installed on your system. This tool requires Python 3.x.
 
 ### Installation
 
-Install the CLI tool with pip:
-  
+Use the `flatten.py` script directly:
 ```bash
-pip install flatten-codebase
+python3 flatten.py
 ```
-
-Or use the `flatten_codebase/main.py` script directly:
-```bash
-python3 flatten_codebase/main.py
-```
-You can rename and put it in your PATH to use it as a global command.
+You can put it in your PATH to use it as a global command.
 
 ### Usage
 
