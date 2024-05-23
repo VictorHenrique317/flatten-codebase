@@ -44,9 +44,9 @@ You can put it in your PATH to use it as a global command.
 
 ### Usage
 
-Run the CLI with the `--folders` argument followed by the paths to the base folders you wish to process. For example:
+Run the script with the `--folders` argument followed by the paths to the base folders you wish to process. For example:
 ```bash
-flatten-codebase --folders /path/to/folder1 /path/to/folder2
+python3 flatten --folders /path/to/folder1 /path/to/folder2
 ```
 
 This will create a `codebase.md` file in the current directory containing the flattened structure and the content of the specified folders.
